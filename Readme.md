@@ -1,4 +1,4 @@
-# pybbiology
+# pybiology
 
 ```
 Freely available tools for Analsis of DNA
